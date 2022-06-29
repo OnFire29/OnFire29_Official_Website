@@ -1,0 +1,47 @@
+#body1 {
+    background-color: black;
+}
+
+#titolo1 {
+    color:white;
+}
+
+#titolo2 {
+    color: aqua;
+}
+
+#intro {
+    color: white;
+    font-size: 30px;
+    margin-left: 5%;
+}
+
+#immagine {
+    margin-left: 44% !important;
+}
+
+
+#immagine1 {
+    margin-left: 47% !important;
+}
+
+#pwho {
+    color:white;
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+#personal {
+    font-size: 25px;
+}
+
+#listasocial {
+    font-size: 50px;
+}
+
+#tabellina {
+	color:blue;
+	background-color: white;
+	border-color: blue;
+    margin-left: 5%;
+}
